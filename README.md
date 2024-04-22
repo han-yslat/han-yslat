@@ -18,13 +18,11 @@ Hello! I'm Aira Josh Ynte, a college student currently pursuing a Bachelor's deg
 
 - **han-yslat.github.io** (link: https://han-yslat.github.io)
   - This is my personal website hosted on GitHub Pages.
-
-[Add more projects as needed]
+]
 
 ## Contact Me
 
 - GitHub: [han-yslat](https://github.com/han-yslat)
-- [Any other contact information you want to provide]
 
 ## About Me
 
